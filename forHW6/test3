@@ -1,0 +1,173 @@
+Script started on Mon 21 Nov 2016 06:01:36 PM PST
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+A  2 [ B F ] 
+
+B  2 [ C G ] 
+
+C  1 [ H ] 
+
+D  0 [  ]
+
+E  0 [  ]
+
+F  2 [ I E ] 
+
+G  0 [  ]
+
+H  2 [ G I ] 
+
+I  3 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+a
+Vertex A Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+b
+Vertex B Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+c
+Vertex C Out degree: 1
+Enter a vertex or press 0 to quit and find the adjacency
+d
+Vertex D Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+e
+Vertex E Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+f
+Vertex F Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+g
+Vertex G Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+h
+Vertex H Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+i
+Vertex I Out degree: 3
+Enter a vertex or press 0 to quit and find the adjacency
+j
+Vertex J Out degree:  **Error: Bad Vertex!** 
+
+Enter a vertex or press 0 to quit and find the adjacency
+k
+Vertex K Out degree:  **Error: Bad Vertex!** 
+
+Enter a vertex or press 0 to quit and find the adjacency
+0
+
+Find the ADJANCENCY of the vertex
+Enter a vertex or press 0 to quit
+a
+....in the llist constructor
+....in the llist destructor.
+ [ B F ] 
+
+Enter a vertex or press 0 to quit
+b
+....in the llist constructor
+....in the llist destructor.
+ [ C G ] 
+
+Enter a vertex or press 0 to quit
+c
+....in the llist constructor
+....in the llist destructor.
+ [ H ] 
+
+Enter a vertex or press 0 to quit
+d
+....in the llist constructor
+....in the llist destructor.
+ [ Empty ] 
+
+Enter a vertex or press 0 to quit
+e
+....in the llist constructor
+....in the llist destructor.
+ [ Empty ] 
+
+Enter a vertex or press 0 to quit
+f
+....in the llist constructor
+....in the llist destructor.
+ [ I E ] 
+
+Enter a vertex or press 0 to quit
+g
+....in the llist constructor
+....in the llist destructor.
+ [ Empty ] 
+
+Enter a vertex or press 0 to quit
+h
+....in the llist constructor
+....in the llist destructor.
+ [ G I ] 
+
+Enter a vertex or press 0 to quit
+i
+....in the llist constructor
+....in the llist destructor.
+ [ A G E ] 
+
+Enter a vertex or press 0 to quit
+j
+ **Error: Bad Vertex!** 
+Enter a vertex or press 0 to quit
+k
+ **Error: Bad Vertex!** 
+Enter a vertex or press 0 to quit
+0
+End of program
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ exit
+exit
+
+Script done on Mon 21 Nov 2016 06:02:52 PM PST

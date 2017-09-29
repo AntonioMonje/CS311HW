@@ -1,0 +1,39 @@
+Script started on Mon 24 Oct 2016 05:03:19 PM PDT
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ g++ HW3P3client.cpp slist.cpp llist.cpp
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ ./a.out
+part 1
+part 2
+in copy test
+ [ 123456 ] finished
+Calling the llist destructor.
+-- After copytest --- 
+part 3
+ [ 12345 ] 
+-- Testing operator overloading ---
+
+part 4
+
+part 5
+ [ 12345 ] 
+part 6
+
+part 7
+ [ 78910 ] 
+part 8
+
+part 9
+ [ 12345 ] 
+part 10
+
+part 11
+ [ 1234 ] 
+part 12
+ [ 1234 ] 
+part 13
+ [ 12345 ] 
+Calling the llist destructor.
+Calling the llist destructor.
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ exit
+exit
+
+Script done on Mon 24 Oct 2016 05:03:59 PM PDT

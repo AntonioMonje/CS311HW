@@ -1,0 +1,149 @@
+Script started on Fri 14 Oct 2016 12:26:29 PM PDT
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ g++ llist.h
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ g++ llist.h[Kcpp HW3P1client.cpp
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ .[Ka.ou[K[K[K[K./a.out
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>1
+CASE 1:------------------- 
+1
+List is Empty
+
+2
+ [ empty ] 
+
+3
+
+4
+ [ 1234 ] 
+5
+1 was removed
+2 was removed
+
+6
+ [ 34 ] 
+
+7
+List has some elements
+
+8
+4 was removed
+3 was removed
+
+9
+List is Empty
+Calling the llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>2
+Case 2: -----------------------
+1
+
+2
+
+3
+4 was removed
+
+4
+
+5
+ [ 5689 ] 
+6
+
+7
+
+8
+
+9
+Error: Out Of Range
+
+10
+Error: Out Of Range
+
+11
+ [ 45678910 ] 
+12
+4 was removed
+
+13
+10 was removed
+
+14
+7 was removed
+
+15
+Error: Out Of Range
+
+16
+Error: Out Of Range
+
+17
+ [ 5689 ] 
+18
+9 was removed from the list
+8 was removed from the list
+6 was removed from the list
+5 was removed from the list
+
+19
+ [ empty ] 
+Calling the llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>3
+Case 3:-------------------- 
+
+1
+Error: Out Of Range
+
+2
+Error: trying to delete when list is empty
+Calling the llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>4
+Case 4:------------------------ 
+
+1
+Error: Out Of Range
+
+2
+Error: trying to delete when list is empty
+Calling the llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>0
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ exit
+exit
+
+Script done on Fri 14 Oct 2016 12:27:34 PM PDT

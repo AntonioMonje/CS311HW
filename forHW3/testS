@@ -1,0 +1,26 @@
+Script started on Mon 17 Oct 2016 02:57:18 PM PDT
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ g++ slist.cpp llist.cpp HW3P2client.cpp
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ ./a.out
+Part: 1
+Part: 2
+Part: 3
+ [ 4678 ] 
+Part: 4
+Found in position: 2
+Part: 5
+Part: 6
+Found in position: 4
+Part: 7
+Part: 8
+ [ 4072 ] 
+Part: 9
+NOT FOUND
+Part: 10
+ERROR: Bad position was given
+-----------------------------------------------
+Calling the llist destructor.
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ ./a.outg++ slist.cpp llist.cpp HW3P2client.cpp
+]0;monje001@empress:~/cs311/HWPrograms/forHW3[monje001@empress forHW3]$ exit
+exit
+
+Script done on Mon 17 Oct 2016 02:57:52 PM PDT

@@ -1,0 +1,129 @@
+// ====================================================
+//HW#: HW3P2 slist
+//Your name: Antonio Monje
+//Complier:  g++
+//File type: llist implementation file
+//=====================================================
+
+using namespace std;
+
+#include<iostream>
+#include"slist.h"
+//Purpose: Constructor initializes Front and rear to Null and sets the counter for slist to 0
+slist::slist()
+{
+
+  Front = NULL;//indicate an empty list
+  Rear = NULL;//indicate an empty list
+  Count = 0;//indicate an empty list
+}
+
+slist& slist::operator=(const slist& OtherOne)
+{
+  el_t x;
+  if(&OtherOne != this)
+    {
+      while(!this->isEmpty())
+	this->deleteRear(x);
+      Node* P;
+      P = OtherOne.Front;
+      while(P!=NULL)
+	{
+	  this -> addRear(P->Elem);
+	  P=P->Next;
+	}
+    }
+  return *this;
+}
+bool slist::operator==(const slist& Other)
+{
+  Node *p = this->Front;
+  Node *t = Other.Front;
+  if(Other.Count != this->Count)
+    {
+      return false;
+    }
+  else
+    {
+      while(p!=NULL)
+	{
+	  if(p->Elem != t->Elem)
+	    {
+	      return false;
+	    }
+	  else
+	    {
+	      p=p->Next;
+	      t=t->Next;
+	    }
+	}
+      return true;
+    }
+}
+slist::slist(const slist& Original)
+{
+    this->Front = NULL;
+    this->Rear = NULL;
+    this->Count = 0;
+    Node *P;
+    P = Original.Front;
+    while(P!=NULL)
+      {
+	this->addRear(P->Elem);
+	P=P->Next;
+      }
+}
+
+
+
+//Purpose: to search for an element in the list and return its position in the list
+//Algorithm: a while loop that goes through the list until you find the element and returns the position or else return 0
+//Parameters:you pass the element being searched
+int slist::search(el_t Num)
+{
+  Node *p = Front;//initialize p
+  int i = 0;// counter for the position
+  
+  //go through the list until you reach null if you find th element return the position
+  while(p != NULL)
+    {
+      i++;//counter for the position increments
+      if(p->Elem == Num)//if its the element return the position
+	{
+	  return i;
+	}
+      else// else increment to the next node
+	{
+	  p=p->Next;//moves to the next null
+	}
+    }
+  return 0;//if its not found return 0
+  
+  
+}
+
+//Purpose: To replace the Ith node you want with a new element using the position from the search function
+//Algorithm: checks for boundaries then goes through a loop until it reaches the number your looking for then replaces the old element with a new element
+//Parameters: you pass the element you want to replace the old number with and the position of the old number
+void slist::replace(el_t Num, int I)
+{
+  if(I > Count || I < 1)//error case if its out of range
+    {
+      throw OutOfRange();//out of range mesage
+    }
+  else //else search through the list and delete it
+    {
+      Node *p = Front;
+      
+      //goes through the list until you reach the node before the one you are searching for
+      for(int K = 1; K <= I-1; K++)
+        {
+          p = p->Next;//moves to the next node
+        }
+      
+      
+      p->Elem = Num;//save the element thats being deleted into the variable
+    }
+}
+
+

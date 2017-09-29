@@ -1,0 +1,176 @@
+// ====   For the dgraph.cpp file ====================================
+// INSTRUCTION:
+// Complete all the functions you listed in dgraph.h
+// Comment the file completely using How to Comment file.
+//implemented by Antonio Monje
+//=====================================
+#include <iostream>
+#include "Ndgraph.h"
+#include <fstream>
+//Purpose: To initializes Vertexname to blank visit to 0 and count to 0
+//Algorithm: A for loop that goes from 0 to the size so that they all get intialized
+dgraph::dgraph()
+{//for loop is so that everything gets initialized
+  for(int i = 0; i < SIZE; i++)
+    {
+  Gtable[i].vertexName = ' ';
+  Gtable[i].visit = 0;
+    }
+  countUsed = 0;
+}
+
+dgraph::~dgraph()
+{
+  
+}
+
+void dgraph::fillTable()
+{
+  el_t X;//variable of el_t type for adding elements to the table
+  ifstream fin("table.txt", ios::in);
+  //  Set up fin stream to read from table.txt
+  //while loop that goes until it cant read the vertexname
+  while(fin >> Gtable[countUsed].vertexName)  // if I can read the name
+    {    //gets the information
+      fin >> Gtable[countUsed].outDegree;      
+      //loop goes until the outdegree number to fill in the elements
+      for(int i = 0; i < Gtable[countUsed].outDegree; i++)
+	{
+	  fin >> X;//takes in the information from the file
+	  (Gtable[countUsed].adjacentOnes).addRear(X);
+	  // this uses a slist function from HW3
+	}//end of for
+      countUsed++;// increment the countUsed
+    }//end of while
+  
+  fin.close();//close fin  
+}
+//Purpose: To display everything from the file neatly
+//Algorithm: for loop that goes through the amount of times based from the count used and a if statement to palce a blank so it doesnt show empty from llist
+void dgraph::displayGraph()
+{//for loop that goes through the amount of time of count used so that it wont add any extra elements
+  cout << "Vname" << "\t" << "OutDegree" << "\t" << "visit" << "\t\t" << "Adjacent Ones" << endl; 
+ for (int i = 0; i < countUsed; i++)
+    {
+      cout << Gtable[i].vertexName;//displays the vertexname
+      cout << "\t" << "  " <<  Gtable[i].outDegree;//dislpays the outdegree
+      cout << "\t\t" << Gtable[i].visit;
+      //if statement so that it places a blank instead of empty for the adjacent ones
+      if((Gtable[i].adjacentOnes).isEmpty())
+	{
+	  cout << "\t\t" << " [  ]" << endl;
+	}
+      else// so that it shows the elements and not a blank
+	{   
+	  cout << "\t\t";
+	  (Gtable[i].adjacentOnes).displayAll();
+	}
+    }
+}
+
+//Purpose: To show the numberr of the outdegree
+//Algorithm: for loop for the amount used so you get the right number and not extra
+//Paraeters: a character holder to check if the vertex name is the same and reurns outdegree if it is
+int dgraph::findOutDegree(char ans)
+{
+  //for loop that goes through the amount use so it doesnt go further
+  for(int i = 0; i < countUsed; i++)
+    {//checks if vertex and ans are the same if yes it returns the outdegree
+      if(Gtable[i].vertexName == ans)
+	{
+	  return Gtable[i].outDegree;
+	}
+    }
+  throw BadVertex();  //throws bad vertex if a vertex not in the list is searched for
+}
+//Purpose: To show the adjacent ones
+//Algorithm: for loop for the amount used so you get the right number and not extra
+//Paraeters: a character holder to check if the vertex name is the same and returns adjacent ones
+slist dgraph::findAdjacency(char ans)
+{
+  //for loop that goes from 0 till the count used so that you dont go further
+  for(int i = 0; i < countUsed; i++)
+    {//checks vetex name with ans if yes then it returns the adjacent ones
+      if(Gtable[i].vertexName == ans)
+	{
+	  return Gtable[i].adjacentOnes;
+	}
+    }
+       
+  throw BadVertex();//thros bad vertex if a vertex not in the list is searched for
+       
+}
+//Purpose:To display the visited order of the vertex
+//Algorithm://Convert A to slot 0, B to slot 1 etc. by subtracting 65 the ascii value
+//Parameter: holder for the integer and character te function is passed
+void dgraph::visit(int i, char ans)
+{
+  int x = ans - 65;//places the slot number  into temp variable
+  Gtable[x].visit = i;//slot number gets a visit based on when its visited
+
+    
+  // which will enter the given visit number for a given vertex.
+  //This is to indicate the order in which vertices were visited.
+  //Do not use a loop to look for the vertex.
+  //Convert A to slot 0, B to slot 1 etc.
+}
+
+//Purpose:To check if the vertex has been marked or not
+//Algorithm:returns true if a given vertex was already visited
+//(0 means not visited)
+//Parameters: character holder for the vertex passed to the function
+bool dgraph::isMarked(char ans)
+{
+  int x = ans - 65;//places the slot number into a temp variable
+  if(Gtable[x].visit == 0)//checks if its been marked or not
+    {
+      return false;//false if not marked which is if visit is 0
+    }
+  else
+    {
+      return true;//true if its been marked
+    }
+}
+//  which returns true if a given vertex was already visited
+//(0 means not visited)
+  //Do not use a loop to look for a vertex
+
+
+
+/* note that Gtable[i].adjacnentOnes is a slist, so you can use
+   any slist function on it
+
+Hint on filltable::
+
+Set up fin stream to read from table.txt
+while (fin >> Gtable[countUsed].vertexName)  // if I can read the name
+{ fin >> Gtable[coutUsed].outDegree;
+  // Then for the outDegree times do the following: (use a for-loop)
+  {
+     fin >> X;
+     (Gtable[coutUsed].adjacentOnes).addRear(x); 
+                      // this uses a slist function from HW3
+  }//end of for
+  // increment the countUsed
+}//end of while
+close fin
+
+Hint on displaygraph::
+
+Make the following couts better with labels.
+for (int i = 0; i < coutUsed; i++}
+{  
+    cout << Gtable[i].vertexname << endl;
+    cout << Gtable[i].outdegree << endl;
+    (Gtable[i].adjacentOnes).displayAll();
+}  
+
+Instruction on findOutDegree and findAdjacency::
+
+For this HW, you must use a loop.
+Do not go through all the slots of the table
+Just go through the used slots.
+
+*/
+				   
+				   

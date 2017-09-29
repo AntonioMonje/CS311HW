@@ -1,0 +1,1000 @@
+Script started on Mon 21 Nov 2016 05:59:09 PM PST
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g[Kexit./a.outg++ fileioDemo.cpp hw3p3.o llist.o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kscript testls[Kg++ fileioDemo.cpp hw3p3.o llist.o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K[3Pexit[Kg++ h6Client.cpp [1@w[C[C[C[C[C[C[C[C[C[C[C[C l l i s t . c p p [C s l i s t . c p p [C d g r a p h . c p p 
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+A  2 [ B F ] 
+
+B  2 [ C G ] 
+
+C  1 [ H ] 
+
+D  0 [  ]
+
+E  0 [  ]
+
+F  2 [ I E ] 
+
+G  0 [  ]
+
+H  2 [ G I ] 
+
+I  3 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+a
+Vertex A Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+b
+Vertex B Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+c
+Vertex C Out degree: 1
+Enter a vertex or press 0 to quit and find the adjacency
+d
+Vertex D Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+e
+Vertex E Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+f
+Vertex F Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+g
+Vertex G Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+h
+Vertex H Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+i
+Vertex I Out degree: 3
+Enter a vertex or press 0 to quit and find the adjacency
+j
+Vertex J Out degree:  **Error: Bad Vertex! end of program!** 
+
+Enter a vertex or press 0 to quit and find the adjacency
+k
+Vertex K Out degree:  **Error: Bad Vertex! end of program!** 
+
+Enter a vertex or press 0 to quit and find the adjacency
+0
+
+Find the ADJANCENCY of the vertex
+Enter a vertex or press 0 to quit
+^X
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./a.outg++ fileioDemo.cpp hw3p3.o llist.o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kscript testls[Kg++ fileioDemo.cpp hw3p3.o llist.o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K[3Pexitg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K[K./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./a.out[3Pexitg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K[Kemacs hw6Cleint.cpp
+[?1049h[?12;25h[?1h=[54;1H[?25l[7m----:---F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m      (Fundamental)--L1--All-----------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[H[?12l[?25h[?12;25h[55d[?25lLoading disp-table...[K[H[?12l[?25h[?12;25h[55;22H[?25ldone[H[?12l[?25h[?12;25h[H[2J[55d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/igrep-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25llang-coding-systems-init.el (source)...[H
+[?12l[?25h[?12;25h[H[2J[55d[?25lLoading encoded-kb...[K[H
+[?12l[?25h[?12;25h[55;22H[?25ldone[H
+[?12l[?25h[?12;25h[55d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[55;1H[?25lLoading /usr/share/emacs/site-lisp/site-start.d/lang-coding-systems-init.el (source)...done[K[H
+[?12l[?25h[?12;25h[55;49H[?25lphp-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;77H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lo-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;76H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lsgml-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lython-mode-init.el (source)...[H
+[?12l[?25h[?12;25h[55;80H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25lrpm-spec-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;82H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25luby-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;78H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25ltramp-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lfont-lock...[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading regexp-opt...[K[H
+[?12l[?25h[?12;25h[55;22H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lfont-lock...done[K[H
+[?12l[?25h[?12;25h[55;9H[?25ljka-compr...[K[H
+[?12l[?25h[?12;25h[55;21H[?25ldone[H
+[?12l[?25h[?12;25h[55d[?25lFor information about the GNU Project and its goals, type C-h C-p.[H
+[?12l[?25h[?12;25h[55d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading cc-mode...[H
+[?12l[?25h[?12;25h[55;9H[?25l/usr/libexec/emacs/21.4/i386-redhat-linux-gnu/fns-21.4.1-x.el (source)...[H
+[?12l[?25h[?12;25h[55;82H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25ladvice...[K[H
+[?12l[?25h[?12;25h[55;18H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-extra...[K[H
+[?12l[?25h[?12;25h[55;20H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lbytecomp...[K[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-macs...[K[H
+[?12l[?25h[?12;25h[55;19H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lbytecomp...done[H
+[?12l[?25h[?12;25h[55;13H[?25l-opt...[K[H
+[?12l[?25h[?12;25h[55;20H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-seq...[K[H
+[?12l[?25h[?12;25h[55;18H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lmule-util...[K[H
+[?12l[?25h[?12;25h[55;21H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcc-mode...done[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading cc-mode...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                     [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-uuu:---F1  [0m[39;49m[27m[7m[1mhw6Cleint.cpp[0m[39;49m[27m[7m      (C++ Abbrev)--L1--All-----------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[55d[K[2d[55d[?25l(No files need saving)[H
+[?12l[?25h[?12;25h[55d[K[?1l>[?12l[?25h[?1049l[39;49m]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ emacs hw6Cleint.cpp[1Pnt.cpp[1Pnt.cppint.cppent.cpp
+[?1049h[?12;25h[?1h=[54;1H[?25l[7m----:---F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m      (Fundamental)--L1--All-----------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[H[?12l[?25h[?12;25h[55d[?25lLoading disp-table...[K[H[?12l[?25h[?12;25h[55;22H[?25ldone[H[?12l[?25h[?12;25h[H[2J[55d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/igrep-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25llang-coding-systems-init.el (source)...[H
+[?12l[?25h[?12;25h[H[2J[55d[?25lLoading encoded-kb...[K[H
+[?12l[?25h[?12;25h[55;22H[?25ldone[H
+[?12l[?25h[?12;25h[55d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[55;1H[?25lLoading /usr/share/emacs/site-lisp/site-start.d/lang-coding-systems-init.el (source)...done[K[H
+[?12l[?25h[?12;25h[55;49H[?25lphp-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;77H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lo-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;76H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lsgml-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lython-mode-init.el (source)...[H
+[?12l[?25h[?12;25h[55;80H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25lrpm-spec-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;82H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25luby-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;78H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25ltramp-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lfont-lock...[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading regexp-opt...[K[H
+[?12l[?25h[?12;25h[55;22H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lfont-lock...done[K[H
+[?12l[?25h[?12;25h[55;9H[?25ljka-compr...[K[H
+[?12l[?25h[?12;25h[55;21H[?25ldone[H
+[?12l[?25h[?12;25h[55d[?25lFor information about the GNU Project and its goals, type C-h C-p.[H
+[?12l[?25h[?12;25h[55d[?25lLoading cc-mode...[K[H
+[?12l[?25h[?12;25h[55;9H[?25l/usr/libexec/emacs/21.4/i386-redhat-linux-gnu/fns-21.4.1-x.el (source)...[H
+[?12l[?25h[?12;25h[55;82H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25ladvice...[K[H
+[?12l[?25h[?12;25h[55;18H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-extra...[K[H
+[?12l[?25h[?12;25h[55;20H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lbytecomp...[K[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-macs...[K[H
+[?12l[?25h[?12;25h[55;19H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lbytecomp...done[H
+[?12l[?25h[?12;25h[55;13H[?25l-opt...[K[H
+[?12l[?25h[?12;25h[55;20H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-seq...[K[H
+[?12l[?25h[?12;25h[55;18H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lmule-util...[K[H
+[?12l[?25h[?12;25h[55;21H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcc-mode...done[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading cc-mode...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                     [0m[39;49m[27m
+[A
+[31m// ====   For the HW6 Client file ====================================                                                                                                                       [39;49m
+[A
+[31m//INSTRUCTION: Complete this file and comment using How to Comment file.                                                                                                                     [39;49m
+[A
+[1m[36musing[0m[39;49m [1m[36mnamespace[0m[39;49m [35mstd[39;49m;[K
+[34m#include[0m[39;49m [32m<iostream>[39;49m[K
+[34m#include[0m[39;49m [32m<locale>[39;49m[K
+[34m#include[0m[39;49m [32m"dgraph.h"[39;49m[K
+[31m//Purpose: to test our dgraph functions and display the elements from the text file. Also it shows the outdegree and the adjacent ones for the vertex entered                                [39;49m
+[A
+[31m//Algorithm: fwhile loop that doesn't stop unless a bad vertex is called or the user presses 0                                                                                               [39;49m
+[A
+[32mint[39;49m [1m[34mmain[0m[39;49m()[K
+{[31m//variables initialized                                                                                                                                                                     [39;49m
+[A
+  [32mslist[39;49m [33ml1[0m[39;49m;[K
+  [32mel_t[39;49m [33mx[0m[39;49m;[K
+  [32mel_t[39;49m [33my[0m[39;49m;[K
+  [32mdgraph[39;49m [33mT[0m[39;49m;[K
+  [31m////////////                                                                                                                                                                               [39;49m
+[A
+  T.fillTable();[31m//fills the table from the text file                                                                                                                                         [39;49m
+[A
+  T.displayGraph();[31m//displays the contents neatly                                                                                                                                            [39;49m
+[A
+  [31m///////////////////////////////////////////////////////////////////////                                                                                                                    [39;49m
+[A
+  cout << [32m"Find the OUTDEGREE of the vertex"[39;49m << endl;[K
+[K
+  [31m//do while loop while not 0 or bad vertex ask the user for information to find the outdegree                                                                                               [39;49m
+[A
+[K
+    [1m[36mdo[0m[39;49m{[K
+      cout << endl;[K
+      cout << [32m"Enter a vertex or press 0 to quit and find the adjacency"[39;49m << endl;[K
+      cin >> x;[K
+      x = toupper(x);[K
+[K
+      [1m[36mif[0m[39;49m(x!=[32m'0'[39;49m)[K
+        {[K
+          [1m[36mtry[0m[39;49m{[K
+            cout << [32m"Vertex "[39;49m << x << [32m" Out degree: "[39;49m;[K
+            T.findOutDegree(x);[31m//gets the outdegree for that vertex                                                                                                                          [39;49m
+[A
+            cout << T.findOutDegree(x);[K
+          }[K
+          [1m[36mcatch[0m[39;49m([35mdgraph[39;49m::BadVertex)[31m//called if a bad vertex is entered                                                                                                                        [39;49m
+[A
+            {cout << [32m" **Error: Bad Vertex! end of program!** "[39;49m << endl;}[K
+        }[K
+    }[1m[36mwhile[0m[39;49m(x != [32m'0'[39;49m);[K
+[K
+[K
+[K
+    [31m// catch(dgraph::BadVertex)//bad vertex is called when a bad vertex is entered                                                                                                           [39;49m
+[A
+    [31m//  {cout<< " **Error: Bad Vertex!** " << endl;}                                                                                                                                         [39;49m
+[A
+[K
+[K
+[K
+[K
+    [31m////////////////////////////////////////////////////////////////                                                                                                                         [39;49m
+[A
+    cout << endl;[K
+    cout << [32m"Find the ADJANCENCY of the vertex"[39;49m << endl;[K
+[K
+[7m-uu-:---F1  [0m[39;49m[27m[7m[1mhw6Client.cpp[0m[39;49m[27m[7m      (C++ Abbrev)--L1--Top-----------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[55d[K[54;47H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[54;47H[?25l[7m3[0m[39;49m[27m[4;1H[?12l[?25h[?12;25h[54;47H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[54;47H[?25l[7m5[0m[39;49m[27m[6;1H[?12l[?25h[?12;25h[54;47H[?25l[7m6[0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[54;47H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[54;47H[?25l[7m8[0m[39;49m[27m[9;1H[?12l[?25h[?12;25h[54;47H[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[54;47H[?25l[7m10--Top[0m[39;49m[27m[11;1H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[12;1H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[13;1H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[16;1H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[17;1H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[18;1H[?12l[?25h[?12;25h[54;47H[?25l[7m30[0m[39;49m[27m[31;1H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[32;1H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[34;1H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[35;1H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[36;1H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[37;1H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[38;1H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[37;70H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[38;68H[?12l[?25h[?12;25h[?25l[1P[54;6H[7m**[0m[39;49m[27m[38;58H[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[39;10H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[40;22H[?12l[?25h[?12;25h[54;47H[?25l[7m40[0m[39;49m[27m[41;5H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[42;5H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[43;1H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[44;43H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[45;43H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[46;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[47;5H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[50;43H[?12l[?25h[?12;25h[54;47H[?25l[7m50[0m[39;49m[27m[51;18H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[52;43H[?12l[?25h[?12;25h
+
+	[?25l[7m2[0m[39;49m[27m[53;4H[?12l[?25h[?12;25h[1;52r[2;1H[26M[1;53r[47;1H[6M[1;55r[27;1H[K
+[?25l    [31m//do while llop until 0 or bad vertex is called to get information for the adjancet ones                                                                                                 [39;49m
+[A
+    [1m[36mdo[0m[39;49m{[K
+      cout << [32m"Enter a vertex or press 0 to quit"[39;49m << endl;[K
+      cin >> x;[K
+      x = toupper(x);[K
+      [1m[36mif[0m[39;49m(x!=[32m'0'[39;49m)[K
+        {[K
+          [1m[36mtry[0m[39;49m{[K
+          l1 = T.findAdjacency(x);[31m//gets the adjacent ones for that vertex                                                                                                                   [39;49m
+[A
+          l1.displayAll();[K
+          cout << endl;[K
+          }[K
+[K
+    [1m[36mcatch[0m[39;49m([35mdgraph[39;49m::BadVertex)[31m//called if a bad vertex is entered                                                                                                                              [39;49m
+[A
+      {cout<< [32m" **Error: Bad Vertex! end of program!** "[39;49m << endl;}[K
+        }[K
+    }[1m[36mwhile[0m[39;49m(x != [32m'0'[39;49m);[K
+}[K
+[31m/*                                                                                                                                                                                           [39;49m
+[A
+[31m                                                                                                                                                                                             [39;49m
+[31mint main()                                                                                                                                                                                   [39;49m
+[A
+[31m{ 0.Declare table object                                                                                                                                                                     [39;49m
+[A
+[31m  1.fillTable()                                                                                                                                                                              [39;49m
+[A
+[31m  2.displayGraph()                                                                                                                                                                           [39;49m
+[A
+[31m  while (the user does not want to stop)                                                                                                                                                     [39;49m
+[A
+[31m    a.the user will specify which vertex                                                                                                                                                     [39;49m
+[A[54;48H[7m3--38%[0m[39;49m[27m[28;43H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[30;43H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[31;16H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[32;22H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[33;17H[?12l[?25h[?12;25h[54;47H[?25l[7m62[0m[39;49m[27m[37;27H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[38;24H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[39;12H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[40;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[41;43H[?12l[?25h[?12;25h[C[54;48H[?25l[7m7[0m[39;49m[27m[42;44H[?12l[?25h[?12;25h[C[C[C		[C[C[C[C[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[?25l[1P[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[43;10H[?12l[?25h[?12;25h[55;1H[?25lAuto-saving...[43;10H[?12l[?25h[?12;25h[55;15H[?25ldone[43;10H[?12l[?25h[?12;25h[55;1H[K[54;48H[?25l[7m9[0m[39;49m[27m[44;22H[?12l[?25h[?12;25h[54;47H[?25l[7m70[0m[39;49m[27m[45;2H[?12l[?25h[?12;25h[54;47H[?25l[7m69[0m[39;49m[27m[44;22H[?12l[?25h[?12;25h[1;53r[45;1H[1L[1;55r[45;1H[K[54;47H[?25l[7m70[0m[39;49m[27m[45;1H[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[C[?25l<[?12l[?25h[?12;25h[?25l    cout <<[?12l[?25h[?12;25h[C[?25l[31m"[39;49m[32m                                                                                                                                                                                [39;49m
+[32m}                                                                                                                                                                                            [39;49m
+[45;14H[?12l[?25h[?12;25h[?25l[32mE[39;49m[?12l[?25h[?12;25h[?25l[32mn[39;49m[?12l[?25h[?12;25h[?25l[32md[39;49m[?12l[?25h[?12;25h[C[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32mf[39;49m[C[?12l[?25h[?12;25h[?25l[32mp[39;49m[?12l[?25h[?12;25h[?25l[32mr[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32mg[39;49m[?12l[?25h[?12;25h[?25l[32mr[39;49m[?12l[?25h[?12;25h[?25l[32ma[39;49m[?12l[?25h[?12;25h[?25l[32mm[39;49m[?12l[?25h[?12;25h[45;13H[?25l[32m"End of program"[39;49m[K
+}[K[45;29H[?12l[?25h[?12;25h[C[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h	[?25le[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25l;[?12l[?25h[?12;25h[55;1H[?25lSave file /home/students/monje001/cs311/HWPrograms/forHW6/hw6Client.cpp? (y, n, !, ., q, C-r or C-h)[C[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25lWrote /home/students/monje001/cs311/HWPrograms/forHW6/hw6Client.cpp[K[45;38H[?12l[?25h[?12;25h[55;1H[K[45;38H[55;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ emacs hw6Client.cppeint.cpp[12P./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./a.outg++ fileioDemo.cpp hw3p3.o llist.o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kscript testemacs hw6Client.cpp[8Pscript test3
+Script started, file is test3
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+A  2 [ B F ] 
+
+B  2 [ C G ] 
+
+C  1 [ H ] 
+
+D  0 [  ]
+
+E  0 [  ]
+
+F  2 [ I E ] 
+
+G  0 [  ]
+
+H  2 [ G I ] 
+
+I  3 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+a
+Vertex A Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+b
+Vertex B Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+c
+Vertex C Out degree: 1
+Enter a vertex or press 0 to quit and find the adjacency
+d
+Vertex D Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+e
+Vertex E Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+f
+Vertex F Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+g
+Vertex G Out degree: 0
+Enter a vertex or press 0 to quit and find the adjacency
+h
+Vertex H Out degree: 2
+Enter a vertex or press 0 to quit and find the adjacency
+i
+Vertex I Out degree: 3
+Enter a vertex or press 0 to quit and find the adjacency
+j
+Vertex J Out degree:  **Error: Bad Vertex!** 
+
+Enter a vertex or press 0 to quit and find the adjacency
+k
+Vertex K Out degree:  **Error: Bad Vertex!** 
+
+Enter a vertex or press 0 to quit and find the adjacency
+0
+
+Find the ADJANCENCY of the vertex
+Enter a vertex or press 0 to quit
+a
+....in the llist constructor
+....in the llist destructor.
+ [ B F ] 
+
+Enter a vertex or press 0 to quit
+b
+....in the llist constructor
+....in the llist destructor.
+ [ C G ] 
+
+Enter a vertex or press 0 to quit
+c
+....in the llist constructor
+....in the llist destructor.
+ [ H ] 
+
+Enter a vertex or press 0 to quit
+d
+....in the llist constructor
+....in the llist destructor.
+ [ Empty ] 
+
+Enter a vertex or press 0 to quit
+e
+....in the llist constructor
+....in the llist destructor.
+ [ Empty ] 
+
+Enter a vertex or press 0 to quit
+f
+....in the llist constructor
+....in the llist destructor.
+ [ I E ] 
+
+Enter a vertex or press 0 to quit
+g
+....in the llist constructor
+....in the llist destructor.
+ [ Empty ] 
+
+Enter a vertex or press 0 to quit
+h
+....in the llist constructor
+....in the llist destructor.
+ [ G I ] 
+
+Enter a vertex or press 0 to quit
+i
+....in the llist constructor
+....in the llist destructor.
+ [ A G E ] 
+
+Enter a vertex or press 0 to quit
+j
+ **Error: Bad Vertex!** 
+Enter a vertex or press 0 to quit
+k
+ **Error: Bad Vertex!** 
+Enter a vertex or press 0 to quit
+0
+End of program
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+....in the llist destructor.
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ exit
+exit
+Script done, file is test3
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ script test3emacs hw6Client.cpp
+[?1049h[?12;25h[?1h=[54;1H[?25l[7m----:---F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m      (Fundamental)--L1--All-----------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[H[?12l[?25h[?12;25h[55d[?25lLoading disp-table...[K[H[?12l[?25h[?12;25h[55;22H[?25ldone[H[?12l[?25h[?12;25h[H[2J[55d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/igrep-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25llang-coding-systems-init.el (source)...[H
+[?12l[?25h[?12;25h[H[2J[55d[?25lLoading encoded-kb...[K[H
+[?12l[?25h[?12;25h[55;22H[?25ldone[H
+[?12l[?25h[?12;25h[55d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[55;1H[?25lLoading /usr/share/emacs/site-lisp/site-start.d/lang-coding-systems-init.el (source)...done[K[H
+[?12l[?25h[?12;25h[55;49H[?25lphp-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;77H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lo-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;76H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lsgml-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25lython-mode-init.el (source)...[H
+[?12l[?25h[?12;25h[55;80H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25lrpm-spec-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;82H[?25ldone[H
+[?12l[?25h[?12;25h[55;50H[?25luby-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;78H[?25ldone[H
+[?12l[?25h[?12;25h[55;49H[?25ltramp-init.el (source)...[K[H
+[?12l[?25h[?12;25h[55;74H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lfont-lock...[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading regexp-opt...[K[H
+[?12l[?25h[?12;25h[55;22H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lfont-lock...done[K[H
+[?12l[?25h[?12;25h[55;9H[?25ljka-compr...[K[H
+[?12l[?25h[?12;25h[55;21H[?25ldone[H
+[?12l[?25h[?12;25h[55d[?25lFor information about the GNU Project and its goals, type C-h C-p.[H
+[?12l[?25h[?12;25h[55d[?25lLoading cc-mode...[K[H
+[?12l[?25h[?12;25h[55;9H[?25l/usr/libexec/emacs/21.4/i386-redhat-linux-gnu/fns-21.4.1-x.el (source)...[H
+[?12l[?25h[?12;25h[55;82H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25ladvice...[K[H
+[?12l[?25h[?12;25h[55;18H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-extra...[K[H
+[?12l[?25h[?12;25h[55;20H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lbytecomp...[K[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-macs...[K[H
+[?12l[?25h[?12;25h[55;19H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lbytecomp...done[H
+[?12l[?25h[?12;25h[55;13H[?25l-opt...[K[H
+[?12l[?25h[?12;25h[55;20H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcl-seq...[K[H
+[?12l[?25h[?12;25h[55;18H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lmule-util...[K[H
+[?12l[?25h[?12;25h[55;21H[?25ldone[H
+[?12l[?25h[?12;25h[55;9H[?25lcc-mode...done[K[H
+[?12l[?25h[?12;25h[55d[?25lLoading cc-mode...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                     [0m[39;49m[27m
+[A
+[31m// ====   For the HW6 Client file ====================================                                                                                                                       [39;49m
+[A
+[31m//INSTRUCTION: Complete this file and comment using How to Comment file.                                                                                                                     [39;49m
+[A
+[1m[36musing[0m[39;49m [1m[36mnamespace[0m[39;49m [35mstd[39;49m;[K
+[34m#include[0m[39;49m [32m<iostream>[39;49m[K
+[34m#include[0m[39;49m [32m<locale>[39;49m[K
+[34m#include[0m[39;49m [32m"dgraph.h"[39;49m[K
+[31m//Purpose: to test our dgraph functions and display the elements from the text file. Also it shows the outdegree and the adjacent ones for the vertex entered                                [39;49m
+[A
+[31m//Algorithm: fwhile loop that doesn't stop unless a bad vertex is called or the user presses 0                                                                                               [39;49m
+[A
+[32mint[39;49m [1m[34mmain[0m[39;49m()[K
+{[31m//variables initialized                                                                                                                                                                     [39;49m
+[A
+  [32mslist[39;49m [33ml1[0m[39;49m;[K
+  [32mel_t[39;49m [33mx[0m[39;49m;[K
+  [32mel_t[39;49m [33my[0m[39;49m;[K
+  [32mdgraph[39;49m [33mT[0m[39;49m;[K
+  [31m////////////                                                                                                                                                                               [39;49m
+[A
+  T.fillTable();[31m//fills the table from the text file                                                                                                                                         [39;49m
+[A
+  T.displayGraph();[31m//displays the contents neatly                                                                                                                                            [39;49m
+[A
+  [31m///////////////////////////////////////////////////////////////////////                                                                                                                    [39;49m
+[A
+  cout << [32m"Find the OUTDEGREE of the vertex"[39;49m << endl;[K
+[K
+  [31m//do while loop while not 0 or bad vertex ask the user for information to find the outdegree                                                                                               [39;49m
+[A
+[K
+    [1m[36mdo[0m[39;49m{[K
+      cout << endl;[K
+      cout << [32m"Enter a vertex or press 0 to quit and find the adjacency"[39;49m << endl;[K
+      cin >> x;[K
+      x = toupper(x);[K
+[K
+      [1m[36mif[0m[39;49m(x!=[32m'0'[39;49m)[K
+        {[K
+          [1m[36mtry[0m[39;49m{[K
+            cout << [32m"Vertex "[39;49m << x << [32m" Out degree: "[39;49m;[K
+            T.findOutDegree(x);[31m//gets the outdegree for that vertex                                                                                                                          [39;49m
+[A
+            cout << T.findOutDegree(x);[K
+          }[K
+          [1m[36mcatch[0m[39;49m([35mdgraph[39;49m::BadVertex)[31m//called if a bad vertex is entered                                                                                                                        [39;49m
+[A
+            {cout << [32m" **Error: Bad Vertex!** "[39;49m << endl;}[K
+        }[K
+    }[1m[36mwhile[0m[39;49m(x != [32m'0'[39;49m);[K
+[K
+[K
+[K
+    [31m// catch(dgraph::BadVertex)//bad vertex is called when a bad vertex is entered                                                                                                           [39;49m
+[A
+    [31m//  {cout<< " **Error: Bad Vertex!** " << endl;}                                                                                                                                         [39;49m
+[A
+[K
+[K
+[K
+[K
+    [31m////////////////////////////////////////////////////////////////                                                                                                                         [39;49m
+[A
+    cout << endl;[K
+    cout << [32m"Find the ADJANCENCY of the vertex"[39;49m << endl;[K
+[K
+[7m-uu-:---F1  [0m[39;49m[27m[7m[1mhw6Client.cpp[0m[39;49m[27m[7m      (C++ Abbrev)--L1--Top-----------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[55d[K[54;47H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[54;47H[?25l[7m3[0m[39;49m[27m[4;1H[?12l[?25h[?12;25h[54;47H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[54;47H[?25l[7m5[0m[39;49m[27m[6;1H[?12l[?25h[?12;25h[54;47H[?25l[7m6[0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[54;47H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[54;47H[?25l[7m8[0m[39;49m[27m[9;1H[?12l[?25h[?12;25h[54;47H[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[54;47H[?25l[7m11--Top[0m[39;49m[27m[12;1H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[13;1H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[16;1H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[17;1H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[18;1H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[19;1H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[20;1H[?12l[?25h[?12;25h[54;47H[?25l[7m20[0m[39;49m[27m[21;1H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[22;1H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[23;1H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[22;95H[?12l[?25h[?12;25h[C[C[C		[C[C[C[C[C[22;67H	[C[C[C[C[C[C		[C[C[C[C[C[C		[C[C[C[C[C[C	[?25l[31ma[39;49m[54;6H[7m**[0m[39;49m[27m[22;97H[?12l[?25h[?12;25h[?25l[31mn[39;49m[?12l[?25h[?12;25h[?25l[31md[39;49m[?12l[?25h[?12;25h[C[?25l[31mh[39;49m[?12l[?25h[?12;25h[?25l[31me[39;49m[?12l[?25h[?12;25h[?25l[31mc[39;49m[?12l[?25h[?12;25h[?25l[31mk[39;49m[?12l[?25h[?12;25h[?25l[31ms[39;49m[?12l[?25h[?12;25h[C[?25l[31mf[39;49m[?12l[?25h[?12;25h[?25l[31mo[39;49m[?12l[?25h[?12;25h[?25l[31mr[39;49m[?12l[?25h[?12;25h[C[?25l[31mb[39;49m[?12l[?25h[?12;25h[?25l[31ma[39;49m[?12l[?25h[?12;25h[?25l[31md[39;49m[?12l[?25h[?12;25h[C[?25l[31mv[39;49m[?12l[?25h[?12;25h[?25l[31me[39;49m[?12l[?25h[?12;25h[?25l[31mr[39;49m[?12l[?25h[?12;25h[?25l[31mt[39;49m[?12l[?25h[?12;25h[?25l[31me[39;49m[?12l[?25h[?12;25h[?25l[31mx[39;49m[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[23;5H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[24;14H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[25;20H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[26;84H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[27;16H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[28;22H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[29;7H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[30;17H[?12l[?25h[?12;25h[54;47H[?25l[7m30[0m[39;49m[27m[31;14H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[32;15H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[33;59H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[34;68H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[35;40H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[36;12H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[37;70H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[38;58H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[39;10H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[40;22H[?12l[?25h[?12;25h[54;47H[?25l[7m40[0m[39;49m[27m[41;5H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[42;5H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[43;1H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[44;83H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[45;53H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[46;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[47;5H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[48;5H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[49;5H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[50;69H[?12l[?25h[?12;25h[54;47H[?25l[7m50[0m[39;49m[27m[51;18H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[A[A	[?12l[?25h[?12;25h[1;52r[2;1H[26M[1;53r[48;1H[5M[1;55r[27;1H[K
+[?25l    [31m//do while llop until 0 or bad vertex is called to get information for the adjancet ones                                                                                                 [39;49m
+[A
+    [1m[36mdo[0m[39;49m{[K
+      cout << [32m"Enter a vertex or press 0 to quit"[39;49m << endl;[K
+      cin >> x;[K
+      x = toupper(x);[K
+      [1m[36mif[0m[39;49m(x!=[32m'0'[39;49m)[K
+        {[K
+          [1m[36mtry[0m[39;49m{[K
+          l1 = T.findAdjacency(x);[31m//gets the adjacent ones for that vertex                                                                                                                   [39;49m
+[A
+          l1.displayAll();[K
+          cout << endl;[K
+          }[K
+[K
+    [1m[36mcatch[0m[39;49m([35mdgraph[39;49m::BadVertex)[31m//called if a bad vertex is entered                                                                                                                              [39;49m
+[A
+      {cout<< [32m" **Error: Bad Vertex!** "[39;49m << endl;}[K
+        }[K
+    }[1m[36mwhile[0m[39;49m(x != [32m'0'[39;49m);[K
+    cout << [32m"End of program"[39;49m << endl;[K
+}[K
+[31m/*                                                                                                                                                                                           [39;49m
+[A
+[31m                                                                                                                                                                                             [39;49m
+[31mint main()                                                                                                                                                                                   [39;49m
+[A
+[31m{ 0.Declare table object                                                                                                                                                                     [39;49m
+[A
+[31m  1.fillTable()                                                                                                                                                                              [39;49m
+[A
+[31m  2.displayGraph()                                                                                                                                                                           [39;49m
+[A
+[31m  while (the user does not want to stop)                                                                                                                                                     [39;49m
+[A[54;48H[7m3--38%[0m[39;49m[27m[28;93H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[29;8H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[30;59H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[31;16H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[32;22H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[33;17H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[34;10H[?12l[?25h[?12;25h[54;47H[?25l[7m60[0m[39;49m[27m[35;15H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[36;75H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[37;27H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[38;24H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[39;12H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[40;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[41;64H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[42;51H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[43;10H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[44;22H[?12l[?25h[?12;25h[54;47H[?25l[7m70[0m[39;49m[27m[45;38H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[46;2H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[47;3H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[48;3H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[49;11H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[50;25H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[51;16H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[52;19H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[53;41H[?12l[?25h[?12;25h[1;53r[2;1H[26M[1;55r[28;1H[?25l[31m    a.the user will specify which vertex                                                                                                                                                     [39;49m
+[A
+[31m    b.findOutDegree of the vertex and display the result                                                                                                                                     [39;49m
+[A
+[31m    c.catch exception but do not exit                                                                                                                                                        [39;49m
+[A
+[31m                                                                                                                                                                                             [39;49m
+[A
+[31m  while (the user does not want to stop)                                                                                                                                                     [39;49m
+[A
+[31m    a.the user will specify which vertex                                                                                                                                                     [39;49m
+[A
+[31m    b.findAdjacency of the vertex and display the result (see Hint)                                                                                                                          [39;49m
+[A
+[31m    c.catch exception but do not exit                                                                                                                                                        [39;49m
+[A
+[31m}                                                                                                                                                                                            [39;49m
+[A
+[31m                                                                                                                                                                                             [39;49m
+[A
+[31m                                                                                                                                                                                             [39;49m
+[A
+[31mHint:                                                                                                                                                                                        [39;49m
+[A
+[31m  slist l1;                                                                                                                                                                                  [39;49m
+[A
+[31m  l1 = G.findAdjacency('a');                                                                                                                                                                 [39;49m
+[A
+[31m  // how do you display l1?  Hint: it is an slist from HW3.                                                                                                                                  [39;49m
+[A
+[31m                                                                                                                                                                                             [39;49m
+[A
+[31m*/[39;49m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[54;48H[7m9--Bot[0m[39;49m[27m[28;46H[?12l[?25h[?12;25h[54;47H[?25l[7m80[0m[39;49m[27m[29;57H[?12l[?25h[?12;25h[54;47H[?25l[7m79[0m[39;49m[27m[28;46H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[27;41H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[26;19H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[25;16H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[24;25H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[23;11H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[22;3H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[21;3H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[20;2H[?12l[?25h[?12;25h[54;48H[?25l[7m0[0m[39;49m[27m[19;38H[?12l[?25h[?12;25h[54;47H[?25l[7m69[0m[39;49m[27m[18;22H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[17;10H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[16;51H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[15;64H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[14;5H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[13;12H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[12;24H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[11;27H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[10;75H[?12l[?25h[?12;25h[54;48H[?25l[7m0[0m[39;49m[27m[9;15H[?12l[?25h[?12;25h[54;47H[?25l[7m59[0m[39;49m[27m[8;10H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[7;17H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[6;22H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[5;16H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[4;59H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[3;8H[?12l[?25h[?12;25h[55;1H[?25lAuto-saving...[3;8H[?12l[?25h[?12;25h[55;15H[?25ldone[3;8H[?12l[?25h[?12;25h[55;1H[K[54;48H[?25l[7m3[0m[39;49m[27m[2;93H[?12l[?25h[?12;25h[1;53r[2;1H[27L[1;55r[2;1H[?25l      cin >> x;[K
+      x = toupper(x);[K
+[K
+      [1m[36mif[0m[39;49m(x!=[32m'0'[39;49m)[K
+        {[K
+          [1m[36mtry[0m[39;49m{[K
+            cout << [32m"Vertex "[39;49m << x << [32m" Out degree: "[39;49m;[K
+            T.findOutDegree(x);[31m//gets the outdegree for that vertex                                                                                                                          [39;49m
+[A
+            cout << T.findOutDegree(x);[K
+          }[K
+          [1m[36mcatch[0m[39;49m([35mdgraph[39;49m::BadVertex)[31m//called if a bad vertex is entered                                                                                                                        [39;49m
+[A
+            {cout << [32m" **Error: Bad Vertex!** "[39;49m << endl;}[K
+        }[K
+    }[1m[36mwhile[0m[39;49m(x != [32m'0'[39;49m);[K
+[K
+[K
+[K
+    [31m// catch(dgraph::BadVertex)//bad vertex is called when a bad vertex is entered                                                                                                           [39;49m
+[A
+    [31m//  {cout<< " **Error: Bad Vertex!** " << endl;}                                                                                                                                         [39;49m
+[A
+[K
+[K
+[K
+[K
+    [31m////////////////////////////////////////////////////////////////                                                                                                                         [39;49m
+[A
+    cout << endl;[K
+    cout << [32m"Find the ADJANCENCY of the vertex"[39;49m << endl;[K
+[K[54;48H[7m2--38%[0m[39;49m[27m[28;4H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[27;57H[?12l[?25h[?12;25h[54;48H[?25l[7m0[0m[39;49m[27m[26;18H[?12l[?25h[?12;25h[54;47H[?25l[7m49[0m[39;49m[27m[25;69H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[24;5H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[23;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[22;5H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[21;5H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[20;53H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[19;83H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[18;1H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[17;5H[?12l[?25h[?12;25h[54;48H[?25l[7m0[0m[39;49m[27m[16;5H[?12l[?25h[?12;25h[54;47H[?25l[7m39[0m[39;49m[27m[15;22H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[14;10H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[13;58H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[12;70H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[11;12H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[10;40H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[9;68H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[8;59H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[7;15H[?12l[?25h[?12;25h[54;48H[?25l[7m0[0m[39;49m[27m[6;14H[?12l[?25h[?12;25h[54;47H[?25l[7m29[0m[39;49m[27m[5;17H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[4;7H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[3;22H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[4;7H[?12l[?25h[?12;25h[54;47H[?25l[7m32[0m[39;49m[27m[8;59H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[9;68H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[10;40H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[11;12H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[12;70H[?12l[?25h[?12;25h[54;47H[?25l[7m40[0m[39;49m[27m[16;5H[?12l[?25h[?12;25h[54;48H[?25l[7m1[0m[39;49m[27m[17;5H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[19;83H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[20;53H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[21;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[22;5H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[23;5H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[24;5H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[25;69H[?12l[?25h[?12;25h[54;47H[?25l[7m57[0m[39;49m[27m[33;22H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[35;10H[?12l[?25h[?12;25h[54;47H[?25l[7m61[0m[39;49m[27m[37;75H[?12l[?25h[?12;25h[54;48H[?25l[7m2[0m[39;49m[27m[38;27H[?12l[?25h[?12;25h[54;48H[?25l[7m3[0m[39;49m[27m[39;24H[?12l[?25h[?12;25h[54;48H[?25l[7m4[0m[39;49m[27m[40;12H[?12l[?25h[?12;25h[54;48H[?25l[7m5[0m[39;49m[27m[41;5H[?12l[?25h[?12;25h[54;48H[?25l[7m6[0m[39;49m[27m[42;64H[?12l[?25h[?12;25h[54;48H[?25l[7m7[0m[39;49m[27m[43;51H[?12l[?25h[?12;25h[54;48H[?25l[7m8[0m[39;49m[27m[44;10H[?12l[?25h[?12;25h[54;48H[?25l[7m9[0m[39;49m[27m[45;22H[?12l[?25h[?12;25h[54;47H[?25l[7m70[0m[39;49m[27m[46;38H[?12l[?25h[?12;25h[55;1H[?25lSave file /home/students/monje001/cs311/HWPrograms/forHW6/hw6Client.cpp? (y, n, !, ., q, C-r or C-h)[C[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25lWrote /home/students/monje001/cs311/HWPrograms/forHW6/hw6Client.cpp[K[46;38H[?12l[?25h[?12;25h[55;1H[K[46;38H[55;1H[K[?1l>[?12l[?25h[?1049l[39;49m]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ emacs hw6Client.cpp[7Pscript test3emacs hw6Client.cppeint.cpp[12P./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Pemacs hw6Client.cpp[7Pscript test3emacs hw6Client.cppeint.cpp[12P./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vname OutDegree Adjacent Ones
+A  2 [ B F ] 
+
+B  2 [ C G ] 
+
+C  1 [ H ] 
+
+D  0 [  ]
+
+E  0 [  ]
+
+F  2 [ I E ] 
+
+G  0 [  ]
+
+H  2 [ G I ] 
+
+I  3 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+^[[A^X
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+^[[A]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vname OutDegree Adjacent Ones
+A/t  2 [ B F ] 
+
+B/t  2 [ C G ] 
+
+C/t  1 [ H ] 
+
+D/t  0/t [  ]
+
+E/t  0/t [  ]
+
+F/t  2 [ I E ] 
+
+G/t  0/t [  ]
+
+H/t  2 [ G I ] 
+
+I/t  3 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+^[[A^X
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+dgraph.cpp: In member function ‘void dgraph::displayGraph()’:
+dgraph.cpp:55:15: error: expected primary-expression before ‘/’ token
+dgraph.cpp:55:16: error: ‘t’ was not declared in this scope
+dgraph.cpp:55:17: error: expected ‘;’ before string constant
+dgraph.cpp:60:12: error: expected primary-expression before ‘/’ token
+dgraph.cpp:60:14: error: expected ‘;’ before string constant
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Pemacs hw6Client.cpp[7Pscript test3emacs hw6Client.cppeint.cpp[12P./a.outemacs hw6Cleint.cppient.cpp[7Pscript test3emacs hw6Client.cppg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+dgraph.cpp: In member function ‘void dgraph::displayGraph()’:
+dgraph.cpp:55:15: error: expected primary-expression before ‘/’ token
+dgraph.cpp:55:16: error: ‘t’ was not declared in this scope
+dgraph.cpp:60:12: error: expected primary-expression before ‘/’ token
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vname OutDegree Adjacent Ones
+A	  2 [ B F ] 
+
+B	  2 [ C G ] 
+
+C	  1 [ H ] 
+
+D	  0	 [  ]
+
+E	  0	 [  ]
+
+F	  2 [ I E ] 
+
+G	  0	 [  ]
+
+H	  2 [ G I ] 
+
+I	  3 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+^[[A^[[A        ^[[A^[[A^X
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ y[K./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vname	OutDegree	Adjacent Ones
+A	  2	 [ B F ] 
+
+B	  2	 [ C G ] 
+
+C	  1	 [ H ] 
+
+D	  0	 [  ]
+
+E	  0	 [  ]
+
+F	  2	 [ I E ] 
+
+G	  0	 [  ]
+
+H	  2	 [ G I ] 
+
+I	  3	 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+^[[A^[[A^X
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ ./a.outg++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp 
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ g++ hw6Client.cpp llist.cpp slist.cpp dgraph.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vname	OutDegree	Adjacent Ones
+A	  2		 [ B F ] 
+
+B	  2		 [ C G ] 
+
+C	  1		 [ H ] 
+
+D	  0		 [  ]
+
+E	  0		 [  ]
+
+F	  2		 [ I E ] 
+
+G	  0		 [  ]
+
+H	  2		 [ G I ] 
+
+I	  3		 [ A G E ] 
+
+Find the OUTDEGREE of the vertex
+
+Enter a vertex or press 0 to quit and find the adjacency
+^X
+]0;monje001@empress:~/cs311/HWPrograms/forHW6[monje001@empress forHW6]$ exit
+exit
+
+Script done on Mon 21 Nov 2016 07:16:09 PM PST
